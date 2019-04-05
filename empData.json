@@ -1,0 +1,10 @@
+{
+	"firstName":"Vijay",
+	"lastName":"Cyrus",
+	"Address":[{
+			"city":"Chandigarh",
+			"state": "Punjab",
+			"Zip":"160062"
+	}],
+	"Country":"India"
+}
